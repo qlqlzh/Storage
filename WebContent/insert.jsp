@@ -10,7 +10,7 @@
 <form action="insertOK.jsp" method="post">
 	<table width="600" align="center" border="1" cellpadding="5" cellspacing="0">
 		<tr>
-			<th colspan="2">방명록 쓰기</th>
+			<th colspan="2">게시판 쓰기</th>
 		</tr>
 		<tr>
 			<td width="100">이름</td>
