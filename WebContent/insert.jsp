@@ -36,6 +36,6 @@
 	<input type="hidden" name="ip" value="<%=request.getRemoteAddr()%>"/>
 	
 </form>
-
+<br/>
 </body>
 </html>
